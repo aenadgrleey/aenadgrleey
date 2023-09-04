@@ -37,7 +37,7 @@
 
 ## Сontacts
 - 📫 mails: aenadgrleey@protonmail.com
-- 🌐 How to reach me: @aenadgrleey (everywhere)
+- 🌐 How to reach me: @aenadgrleey (everywhere: Telegram, Instagram, Twitter)
 
 <div align="center">
   <img src="https://web.archive.org/web/20091019133631/http://www.geocities.com/jeepcodeblue/flamebar.gif">
