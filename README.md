@@ -1,39 +1,6 @@
 ## Hi there 👋
 
-- 📍 Location: Serbia
-
-- 🔭 I’m currently working on Android Development
-   
-- 🌱 I’m currently learning on Kotlin Multiplatform, Compose Multiplatform
-
-- 🖥 Programming languages: Kotlin, Python
-
-## 🛠️ My Technology Stack:
-
-• Kotlin
-
-• Coroutines, Flow
-
-• Compose, View, Material 2/3
-
-• Clean Architecture, SOLID
-
-• MVI, MVVM
-
-• Modularization, Gradle
-
-• Accessibility
-
-• Fragments, Jetpack Navigation
-
-• Retrofit, REST
-
-• Room, Datastore
-
-• Dagger 2, Hilt
-
-• Git, GitHub, GitLab
-
+Before, there was an outdated half-CV - let there be half-void now!
 
 ## Сontacts
 - 📫 mails: aenadgrleey@protonmail.com
